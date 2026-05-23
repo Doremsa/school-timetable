@@ -1,0 +1,79 @@
+body {
+  background-color: #88d6db;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+
+.table {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  display: grid;
+  grid-template-columns: 150px 200px 200px 200px 200px 200px 200px;
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+  max-width: 1350px;
+  margin: 0;
+  background-color: #88d6db;
+  overflow: hidden;
+  padding: 18px;
+}
+
+.table div {
+  border: 1px solid #ffffff;
+  padding: 12px;
+  transition: all 0.2s ease;
+}
+
+.table div.subject:hover {
+  background-color: #62bebe;
+  cursor: pointer;
+}
+
+.table div.lessons {
+  background-color: #85c1c7;
+}
+
+.table div.days {
+  background-color: #85c1c7;
+}
+
+.days {
+  text-transform: bold;
+}
+
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 550;
+  text-align: center;
+}
+
+.lang-controls {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.lang-btn {
+  background-color: white;
+  border: 1px solid #79d2d2;
+  padding: 8px 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  background-color: #79d2d2;
+  color: white;
+}
