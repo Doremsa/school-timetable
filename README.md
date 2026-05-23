@@ -1,3 +1,5 @@
+# 🇺🇸:
+
 # School Timetable
 Interactive web application for viewing school schedules with tri-lingual support and smooth hover effects.
 
@@ -15,7 +17,7 @@ An interactive school schedule web application. When hovering over lessons, a sm
 
 
 
-## 🇸🇰 version
+# 🇸🇰: 
 
 # Školský rozvrh
 Interaktívna webová aplikácia na prezeranie školských rozvrhov s podporou troch jazykov a plynulými hover efektmi.
