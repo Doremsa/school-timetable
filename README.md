@@ -12,7 +12,7 @@ An interactive school schedule web application. When hovering over lessons, a sm
 * **Responsive Design:** Looks great on any device.
 
 ### Live Demo: 
-[https://doremsa.github.io/SchoolTimetable](https://doremsa.github.io/SchoolTimetable)
+[https://doremsa.github.io/school-timetable](https://doremsa.github.io/school-timetable)
 
 
 
@@ -31,5 +31,5 @@ Interaktívna webová aplikácia pre školský rozvrh. Pri prejdení myšou (hov
 * **Responzívny dizajn:** Vyzerá skvele na akomkoľvek zariadení.
 
 ### Demo naživo: 
-[https://doremsa.github.io/SchoolTimetable](https://doremsa.github.io/SchoolTimetable)
+[https://doremsa.github.io/school-timetable](https://doremsa.github.io/school-timetable)
 
