@@ -1,0 +1,104 @@
+body {
+  background-color: #88d6db;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  margin: 20px 0;
+}
+
+.table {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  display: grid;
+  grid-template-columns: 150px repeat(6, 200px);
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+  max-width: 1350px;
+  margin: 0;
+  background-color: #88d6db;
+  overflow: hidden;
+  padding: 18px;
+  box-sizing: border-box;
+}
+
+.table div {
+  border: 1px solid #ffffff;
+  padding: 12px;
+  transition: all 0.2s ease;
+  box-sizing: border-box;
+}
+
+.table div.subject:hover {
+  background-color: #62bebe;
+  cursor: pointer;
+}
+
+.table div.lessons {
+  background-color: #85c1c7;
+}
+
+.table div.days {
+  background-color: #85c1c7;
+}
+
+.days {
+  font-weight: bold;
+}
+
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 550;
+  text-align: center;
+}
+
+.lang-controls {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.lang-btn {
+  background-color: white;
+  border: 1px solid #79d2d2;
+  padding: 8px 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  background-color: #79d2d2;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.2rem;
+    margin: 15px 0;
+  }
+
+  .table {
+    grid-template-columns: 100px repeat(6, 160px);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 10px;
+    max-width: 100%;
+  }
+
+  .table div {
+    padding: 10px;
+    font-size: 0.9rem;
+  }
+}
