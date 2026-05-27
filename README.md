@@ -12,7 +12,7 @@ A clean, grid-based school schedule viewer. It allows users to quickly check cla
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?logo=github)](https://doremsa.github.io/school-timetable)
 
 ### Features:
-* **Multi-language Support:** Instantly switches between Russian (RU), English (EN), and Slovak (SK) without reloading the page.
+* **Multi-language Support:** Instantly switches between English (EN) and Slovak (SK) without reloading the page.
 * **Modern Grid Layout:** Uses CSS Grid for structured, sharp, and clean separation of days and periods.
 * **Mobile-friendly Scrolling:** Features a custom horizontal swipe/scroll mechanism for flawless display on smartphones.
 * **Interactive Elements:** Smooth hover transitions on language controls and individual subject blocks.
