@@ -1,3 +1,9 @@
+<img width="1920" height="880" alt="image" src="https://github.com/user-attachments/assets/b2b1e608-0339-455c-8728-1691d397be9a" /> <img width="1920" height="872" alt="image" src="https://github.com/user-attachments/assets/113c5068-1cd6-44f4-80ff-9908987ce353" />
+
+
+
+
+
 # 🇺🇸 (English):
 
 # School Timetable
