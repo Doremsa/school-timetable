@@ -18,9 +18,11 @@ A clean, grid-based school schedule viewer. It allows users to quickly check cla
 * **Interactive Elements:** Smooth hover transitions on language controls and individual subject blocks.
 
 ### Technologies Used:
-* ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Semantic architecture for structured and clean data representation.
-* ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Advanced CSS Grid layout, Flexbox positioning, and custom overflow management for mobile adaptation.
-* ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Dynamic DOM manipulation for on-the-fly language switching and localization logic.
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Semantic architecture for structured and clean data representation.
+
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Advanced CSS Grid layout, Flexbox positioning, and custom overflow management for mobile adaptation.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Dynamic DOM manipulation for on-the-fly language switching and localization logic.
 
 ---
 
@@ -41,6 +43,8 @@ Prehľadný prehliadač školského rozvrhu postavený na CSS Grid. Umožňuje p
 * **Interaktívne prvky:** Plynulé hover prechody na tlačidlách výberu jazyka a jednotlivých blokoch predmetov.
 
 ### Použité technológie:
-* ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Sémantická architektúra pre štruktúrovanú a čistú reprezentáciu údajov.
-* ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Pokročilé rozloženie CSS Grid, polohovanie Flexbox a správa pretečenia obsahu pre mobilnú adaptáciu.
-* ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Dynamická manipulácia s DOM pre okamžité prepínanie jazykov a lokalizačnú logiku.
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Sémantická architektúra pre štruktúrovanú a čistú reprezentáciu údajov.
+
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Pokročilé rozloženie CSS Grid, polohovanie Flexbox a správa pretečenia obsahu pre mobilnú adaptáciu.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Dynamická manipulácia s DOM pre okamžité prepínanie jazykov a lokalizačnú logiku.
